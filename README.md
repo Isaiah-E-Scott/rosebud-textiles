@@ -1,6 +1,8 @@
-# rosebud-textiles
+# rosebud-textiles webpage
 
-This is the first commit of a client web page. It features responsive web desigm that adapts to many screen sizes automatically without the need to program multiple versions of the same page.
+http://rosebudtextilesart.com
+
+This is the source code of a client web page. It features responsive web desigm that adapts to many screen sizes automatically without the need to program multiple versions of the same page.
 
 https://user-images.githubusercontent.com/14919064/206872277-86007145-94d4-46c8-af19-48d01d19e0d6.mp4
 
