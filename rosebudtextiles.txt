@@ -1,7 +1,0 @@
-filezilla
-winscp
-	File protocol: SFTP
-	Host name: rosebudtextilesart.com
-	port number: 22
-	user name: iscott
-	password: peanut1972
