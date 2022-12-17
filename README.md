@@ -18,6 +18,22 @@ It also features an interactive grid and tiles that can be hovered over to show 
 
 https://user-images.githubusercontent.com/14919064/206872798-3819a68e-c9b3-4b08-a4ad-ee8fce120667.mp4
 
+
+**Here is the code to enable the hovering overlay:**
+```
+<div class="hover-bg"><a href="img/portfolio/BlossomingFlowers/Tropical_white_flowers_taupe_stock_preview.jpg" title="Flowers on Vines Red White Gold" data-lightbox-gallery="gallery1">
+	<div class="hover-text">
+		<h4>Tropical White Flowers Taupe</h4>
+		<small>Blossoming Flowers</small>
+	</div>
+	<img src="img/portfolio/BlossomingFlowers/Tropical_white_flowers_taupe_stock_preview.jpg" class="img-responsive" alt="Flowers on Vines Red White Gold">
+</a></div>
+```
+
+- class="hover-bg" - enables overlay over the object when a mouse hovers over it
+- class="hover-text" - creates text in the overlay
+- title - the text under the image in the zoomed view
+
 ## Grouping
 
 Each tile can also be assigned a category so that it can be selected and sorted by its group.
